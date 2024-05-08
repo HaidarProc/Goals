@@ -3,3 +3,4 @@ Resolusi
 2.Menyelesaikan Front-End phase
 3.Membuat project untuk latihan 
 4.Konsisten
+5.Push Yourself dude
