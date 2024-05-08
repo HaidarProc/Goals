@@ -1,5 +1,6 @@
 Rencana Belajar
 1.front end
+  React
 2.Back End
 3.Full Stack Web
 4.Cyber Security
