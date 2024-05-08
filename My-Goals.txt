@@ -1,4 +1,5 @@
 Resolusi
 1.Belajar dengan giat untuk masa depan yang lebih cerah
 2.Menyelesaikan Front-End phase
-3.Membuat project untuk latihan  
+3.Membuat project untuk latihan 
+4.Konsisten
